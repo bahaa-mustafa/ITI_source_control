@@ -1,5 +1,5 @@
 ## What is the purpose of a Git repository, and how does it help front-end developers manage a project like an HTML/CSS/JS webpage?
-## ## tracking changes in project and show Who, Where, When, Why this changes
+#### tracking changes in project and show Who, Where, When, Why this changes
 
 ## Explain the difference between tracked and untracked files in Git, and why might untracked files cause issues in a front-end project?
  ## ## tracked: add to our project
